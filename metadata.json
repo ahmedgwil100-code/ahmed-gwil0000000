@@ -1,0 +1,7 @@
+{
+  "name": "Word Pro",
+  "description": "Word pro — a word-search puzzle game with 15 categories, Classic and Time modes, hints, bonus words, and coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
